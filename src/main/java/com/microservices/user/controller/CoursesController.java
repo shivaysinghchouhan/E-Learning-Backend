@@ -44,7 +44,7 @@ public class CoursesController {
     
     
     @GetMapping(value = "/getCoursesById", produces = "application/json")
-    public List<Map<String,Object>> getCoursesById(@RequestParam("courseId")Integer courseId) {
+    public HashMap<String,String> getCoursesById(@RequestParam("courseId")Integer courseId) {
         HashMap<String,String> courses= courseService.getCourseDetailsById(courseId);
         return courses; // Return JSON response
     }
