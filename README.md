@@ -1,7 +1,7 @@
 # Interactive E-Learning Platform (Backend)
 
 **Author:** Shivraj Singh Chouhan  
-**GitHub:** [shivaysinghchouhan](https://github.com/shivaysinghchouhan/Hotel-Rating-Microservice.git)  
+**GitHub:** [shivaysinghchouhan](https://github.com/shivaysinghchouhan/E-Learning-Backend.git)  
 
 **Project Type:** Backend for E-Learning Platform  
 **Technology Stack:** Java 8, Spring Boot 2.x, JWT Authentication, MySQL & PostgreSQL, Docker, AWS EC2, GitHub CI/CD  
@@ -61,4 +61,4 @@ This project is a **backend application for an interactive E-Learning platform**
 ### Steps to Run Locally
 1. Clone the repository:
    ```bash
-   https://github.com/shivaysinghchouhan/Hotel-Rating-Microservice.git
+   https://github.com/shivaysinghchouhan/E-Learning-Backend.git
